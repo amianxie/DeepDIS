@@ -1,4 +1,4 @@
-# DeepLise
+# DeepDise project
 
 DeepLise Source
 
